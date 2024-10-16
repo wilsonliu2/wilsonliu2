@@ -5,5 +5,5 @@
 
 [**Portfolio**](https://wilsonliu.vercel.app/)
 
-Currently prepping for interviews. Thank you for visiting! 😊
+Currently prepping for interviews and doing a few more hackathons. Thank you for visiting! 😊
 </div>
