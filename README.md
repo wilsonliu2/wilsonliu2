@@ -5,5 +5,5 @@
 
 [**Portfolio**](https://wilsonliu.vercel.app/)
 
-Thank you for visiting! 😊
+Currently prepping for interviews. Thank you for visiting! 😊
 </div>
