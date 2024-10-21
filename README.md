@@ -1,9 +1,3 @@
-<div align="center">
-
-# hi 🫠
-**Passionate and aspiring full-stack developer and college student from NYC, I love coding and enjoy learning new technologies.** 
+![Kick Him GIF](https://media1.tenor.com/m/cvX1sxKs91gAAAAC/kick-him.gif)
 
 [**Portfolio**](https://wilsonliu.vercel.app/)
-
-Currently prepping for interviews and doing a few more hackathons. Thank you for visiting! 😊
-</div>
