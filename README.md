@@ -1,4 +1,4 @@
-![gif](https://media1.tenor.com/m/cvX1sxKs91gAAAAC/kick-him.gif)
+![pepe-typing](https://media1.tenor.com/m/0mX52HNM8HwAAAAd/pepe-type.gif)
 <div style="display: flex; gap: 10px;">
   <a href="https://wilsonliu.vercel.app/" target="_blank">portfolio</a>
   <a href="https://www.linkedin.com/in/wilson-liu-780255237" target="_blank">linkedin</a>
